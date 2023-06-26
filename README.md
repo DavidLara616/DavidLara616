@@ -33,7 +33,11 @@ Let's make technology work for a more connected and efficient future!
 <a href="https://www.youtube.com/watch?v=kx20kG6m-JA"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-### By the way, here are some of my stats
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block"><img src= "https://iconos8.es/icon/c0d5ZV9gJXwS/gr%C3%A1fico-combinado"> STATS <img src= "https://iconos8.es/icon/c0d5ZV9gJXwS/gr%C3%A1fico-combinado"></h2></summary>
+  </ul>
+</div>
 
 <p align="center">
   <!--- stats (start) -->
