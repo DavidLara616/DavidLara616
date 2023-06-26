@@ -5,7 +5,13 @@
        alt="snake" /></a>
 </div>
 
-### About me :
+<div id="user-content-toc">
+  <ul align="center">
+    <marquee behavior="scroll" direction="left" scrollamount="5">
+      <summary><h2 style="display: inline-block">DevOps is not just a tool or a process, it is a culture of collaboration and continuous improvement.</h2></summary>
+    </marquee>
+  </ul>
+</div>
 
 💻 Electronic engineer with experience in IoT, DevOps and telecommunication networks.
 
@@ -51,7 +57,11 @@ Let's make technology work for a more connected and efficient future!
 <a href="https://www.youtube.com/watch?v=kx20kG6m-JA"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-#### Languages ​​and Tools
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" width="40px">
@@ -64,7 +74,11 @@ Let's make technology work for a more connected and efficient future!
 </p>
 
 
-### Contacts: 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
 
 <p align='left'>
    <a href="https://www.linkedin.com/in/david-lara-barbosa/" target="_blank"><img height="30" src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=Linkedin&logoColor=blue"></a>&nbsp;&nbsp;
