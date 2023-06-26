@@ -35,7 +35,7 @@ Let's make technology work for a more connected and efficient future!
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block"><img src= "https://iconos8.es/icon/c0d5ZV9gJXwS/gr%C3%A1fico-combinado"> STATS <img src= "https://iconos8.es/icon/c0d5ZV9gJXwS/gr%C3%A1fico-combinado"></h2></summary>
+    <summary><h2 style="display: inline-block">STATS</h2></summary>
   </ul>
 </div>
 
