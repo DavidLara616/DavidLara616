@@ -1,8 +1,3 @@
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <div id="user-content-toc">
   <ul align="center">
     <marquee behavior="scroll" direction="left" scrollamount="5">
@@ -67,7 +62,7 @@ Let's make technology work for a more connected and efficient future!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,azure,c,arduino,discord,github,html,css,js,linux,mysql,nodejs,py,raspberrypi,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,azure,c,arduino,discord,github,html,css,js,linux,mysql,py,raspberrypi,vscode&perline=14" />
   </a>
 </p>
 
